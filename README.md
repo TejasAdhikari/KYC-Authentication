@@ -5,9 +5,3 @@ This is a Web app developed to facilitate KYC authentication from the comfort of
 **Please visit the following Youtube link to get more idea about the working of the app:**
 
 https://www.youtube.com/watch?v=w6uAMU3kAxM&t=226s
-
-**Teammates:**
-1. Tejas Adhikari
-2. Vedant Athavale
-3. Sourasish Roy
-4. Pranav Sawant
